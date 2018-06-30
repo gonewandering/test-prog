@@ -1,0 +1,1 @@
+[{"id":1,"revision":null,"origin":"vogue","path":"articles","variations":[{"serve":"http://google.com","target":0.06},{"serve":"http://facebook.com","target":0.95}],"createdAt":"2018-06-30T03:05:13.966Z","updatedAt":"2018-06-30T03:05:13.966Z"}]
